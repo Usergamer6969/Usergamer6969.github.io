@@ -1,0 +1,1 @@
+Error: ENOENT: no such file or directory, stat '/root/Interstellar/public/play/stickman-hook/assets/js/main.js'
